@@ -1,2 +1,2 @@
 # aula_javascript
-Introdução ao JavaScript
+Introdução ao JavaScript com a plataforma da DIO
